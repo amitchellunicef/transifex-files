@@ -1,8 +1,4 @@
 {
-  "key": {
-    "key2": "value"
-  },
-  "key": {
-    "key2": "value"
-  }
+  "hello": "hola",
+  "goodbye": "adios"
 }
